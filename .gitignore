@@ -3,3 +3,5 @@ private-portfolio.code-Workspace
 
 
 react-portfolio-app/.expo
+
+react-portfolio-app/node_modules/.cache
